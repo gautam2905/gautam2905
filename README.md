@@ -65,7 +65,7 @@
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 # 📈 Stats
 
 
@@ -82,6 +82,6 @@
 
 <p align="center">
     <a href="https://github.com/YashVardhan-AI">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=YashVardhan-AI&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" />
     </a>
 </p>
