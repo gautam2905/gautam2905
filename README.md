@@ -64,7 +64,7 @@
 
 <p align="center">
     <div style="display: inline-block;margin: auto;">
-        <a href="https://github.com/YashVardhan-AI">
+        <a href="https://github.com/gautam2905">
           <img src="https://github-readme-stats.vercel.app/api?username=gautam2905&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gautam2905's GitHub Stats" height=180/>
     	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" height=180 />
 </p>
