@@ -2,10 +2,10 @@
   <tr>
     <th width="50%">
 
-![](rickroll-rick.gif)
+![](hello_there.gif)
 
-👋 I’m @YashVardhan. <br>
-👀 I'm interested in CS, Physics, Maths & Nature. <br>
+👋 I’m @Gautam. <br>
+👀 I'm interested in CS, Maths & Games. <br>
 🌱 I'm currently learning AI/ML, Data Science. <br>
 📖 Learning Computer Science in academics. <br>
 📫 Reach me through my socials ———————————⟶
@@ -15,15 +15,12 @@
 <th>
 
 # 🔗 Socials
-[![GitHub Yash Pawar](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/YashVardhan-AI)
-[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash834forge@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vardhan-323101215/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ghost-Emperor#0363)
-[![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@YashVar20)
-[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/poruskapil1)
-[![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@godofwings)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yash834forge)
-  
+[![GitHub Gautam](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/gautam2905)
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam23220@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gautam-gupta-382720175)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/870521430029238292)
+[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gautamgupta2005)
+
 
 </th>
 </tr>
