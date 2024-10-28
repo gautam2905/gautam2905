@@ -30,7 +30,7 @@
 
 
 ## 🗣 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2905&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gautam2905's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2905&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gautam2905's GitHub Stats" height=180 />
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-Good-6295CB?style=for-the-badge&logo=cplusplus)]()
@@ -65,8 +65,8 @@
 <p align="center">
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/YashVardhan-AI">
-          <img src="https://github-readme-stats.vercel.app/api?username=gautam2905&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gautam2905's GitHub Stats" />
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=gautam2905&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gautam2905's GitHub Stats" height=180/>
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" height=180 />
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
             <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
         </a>
