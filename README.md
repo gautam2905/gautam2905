@@ -33,19 +33,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2905&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gautam2905's GitHub Stats" />
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
-[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp) 
+[![C++](https://img.shields.io/badge/C++-Good-6295CB?style=for-the-badge&logo=cplusplus)]()
+[![Rust](https://img.shields.io/badge/Rust-learning-6BA299?style=for-the-badge&logo=matlab)]((https://www.rust-lang.org/)) 
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
-[![C++](https://img.shields.io/badge/C++-Learning-6295CB?style=for-the-badge&logo=cplusplus)]()
 [![C](https://img.shields.io/badge/C-Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
-[![R](https://img.shields.io/badge/R-Basics-276DC3?style=for-the-badge&logo=r)](https://www.r-project.org/about.html)
-[![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![Julia](https://img.shields.io/badge/Julia-Secendory_language-8B549B?style=for-the-badge&logo=Julia&logoColor=white)](https://julialang.org) 
-[![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
-[![GoLang](https://img.shields.io/badge/Golang-Secendory_language-6BA259?style=for-the-badge&logo=Go)](https://golang.org/) 
-![C#](https://img.shields.io/badge/CSharp-Learning-6BA259?style=for-the-badge&logo=c-sharp)
 
 
 ## ⚙️ Frameworks
