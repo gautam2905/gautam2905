@@ -30,7 +30,7 @@
 
 
 ## 🗣 Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2905&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gautam2905's GitHub Stats" />
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
@@ -72,16 +72,10 @@
 <p align="center">
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/YashVardhan-AI">
-            <img src="https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVardhan-AI&theme=onedark&count_private=false&theme=gotham" height=160>
+          <img src="https://github-readme-stats.vercel.app/api?username=gautam2905&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gautam2905's GitHub Stats" />
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" />
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
             <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
         </a>
     </div>
-</p>
-
-<p align="center">
-    <a href="https://github.com/YashVardhan-AI">
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2905&theme=dark&hide_border=true" alt="gautam2905's GitHub Stats" />
-    </a>
 </p>
