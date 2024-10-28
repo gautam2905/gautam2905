@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th width="50%">
+    <th width="30%">
 
 ![](hello_there.gif)
 
