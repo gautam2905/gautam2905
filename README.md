@@ -2,7 +2,7 @@
   <tr>
     <th width="40%">
 
-![](hello_there.gif)
+![](hi.gif)
 
 👋 I’m @Gautam. <br>
 👀 I'm interested in CS, Maths & Games. <br>
