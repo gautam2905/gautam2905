@@ -52,10 +52,8 @@
 [![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
-[![Vim](https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim)](https://www.vim.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
-[![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
 
 # 📈 Stats
